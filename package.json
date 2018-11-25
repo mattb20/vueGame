@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tomgard/vueGame/issues"
   },
-  "homepage": "https://github.com/tomgard/vueGame#readme"
+  "homepage": "https://github.com/tomgard/vueGame#readme",
+  "dependencies": {
+    "express": "4.16.4"
+  }
 }
